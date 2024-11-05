@@ -14,26 +14,26 @@ At its core, cloud computing refers to the delivery of computing services—such
 
 <h2>Key Concepts in Cloud Computing</h2>
 
-Infrastructure as a Service (IaaS): IaaS provides fundamental computing resources, including servers, storage, and networking. Users can rent these resources on a pay-as-you-go basis, eliminating the need for significant upfront investments in hardware.
+<b>Infrastructure as a Service (IaaS):</b> IaaS provides fundamental computing resources, including servers, storage, and networking. Users can rent these resources on a pay-as-you-go basis, eliminating the need for significant upfront investments in hardware.
 
-Platform as a Service (PaaS): PaaS offers a platform for developing, testing, and deploying applications without the complexities of managing underlying infrastructure. It provides a comprehensive environment with tools and services for building and running applications.
+<b>Platform as a Service (PaaS):</b> PaaS offers a platform for developing, testing, and deploying applications without the complexities of managing underlying infrastructure. It provides a comprehensive environment with tools and services for building and running applications.
 
-Software as a Service (SaaS): SaaS delivers software applications over the internet, eliminating the need for local installation and maintenance. Users access these applications through a web browser, enabling them to work from any device with an internet connection.   
+<b>Software as a Service (SaaS):</b> SaaS delivers software applications over the internet, eliminating the need for local installation and maintenance. Users access these applications through a web browser, enabling them to work from any device with an internet connection.   
 Benefits of Cloud Computing
 
 <h2>Cloud computing offers numerous advantages for businesses and individuals:</h2>
 
-Cost-Effectiveness: Cloud providers offer flexible pricing models, allowing users to scale resources up or down as needed. This eliminates the need for significant upfront investments in hardware and software.
+<b>Cost-Effectiveness: Cloud providers offer flexible pricing models, allowing users to scale resources up or down as needed. This eliminates the need for significant upfront investments in hardware and software.
 
-Scalability: Cloud services can easily accommodate fluctuating workloads, ensuring that resources are always available when needed. This scalability enables businesses to handle peak demands without compromising performance.
+<b>Scalability: Cloud services can easily accommodate fluctuating workloads, ensuring that resources are always available when needed. This scalability enables businesses to handle peak demands without compromising performance.
 
-Reliability: Cloud providers invest heavily in redundant infrastructure and data backup systems to ensure high availability and data security. This minimizes downtime and protects critical data.
+<b>Reliability: Cloud providers invest heavily in redundant infrastructure and data backup systems to ensure high availability and data security. This minimizes downtime and protects critical data.
 
-Security: Cloud providers employ advanced security measures, such as encryption, access controls, and threat monitoring, to safeguard user data. These measures often exceed the security capabilities of on-premises solutions.
+<b>Security: Cloud providers employ advanced security measures, such as encryption, access controls, and threat monitoring, to safeguard user data. These measures often exceed the security capabilities of on-premises solutions.
 
-Accessibility: Cloud services can be accessed from anywhere with an internet connection, enabling remote work, collaboration, and access to data from any device.   
+<b>Accessibility: Cloud services can be accessed from anywhere with an internet connection, enabling remote work, collaboration, and access to data from any device.   
 
-Innovation: Cloud computing empowers businesses to innovate faster by providing access to cutting-edge technologies and services. This accelerates time-to-market for new products and services.
+<b>Innovation: Cloud computing empowers businesses to innovate faster by providing access to cutting-edge technologies and services. This accelerates time-to-market for new products and services.
 
 <h2>Real-World Applications of Cloud Computing</h2>
 
