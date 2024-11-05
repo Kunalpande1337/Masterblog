@@ -2,7 +2,9 @@
 layout: post
 title: What is a Credit Score? Your Financial Fingerprint
 ---
-A credit score is a numerical representation of your creditworthiness, a measure of how likely you are to repay borrowed money on time. It’s like a financial fingerprint, unique to each individual and reflecting your borrowing and repayment history. Lenders use credit scores to assess the risk associated with lending you money.   
+A credit score is a numerical representation of your creditworthiness, a measure of how likely you are to repay borrowed money on time. It’s like a financial fingerprint, unique to each individual and reflecting your borrowing and repayment history. Lenders use credit scores to assess the risk associated with lending you money. 
+
+![_config.yml]({{ site.baseurl }}/images/how-to-build-credit-score-in-canada.jpeg)
 
 <h2>How is a Credit Score Calculated?</h2>
 
