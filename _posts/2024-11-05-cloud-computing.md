@@ -4,7 +4,7 @@ title: What is Cloud Computing? Here Is All You Need To Know!
 ---
 Cloud computing has revolutionized the way we interact with technology, transforming the traditional model of computing into a flexible and scalable solution. In this comprehensive guide, we will delve into the intricacies of cloud computing, exploring its core concepts, benefits, types, and real-world applications.
 
-
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 <h2>Understanding the Basics</h2> 
 
