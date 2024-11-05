@@ -6,7 +6,7 @@ Cloud computing has revolutionized the way we interact with technology, transfor
 
 
 
-[h2]Understanding the Basics 
+Understanding the Basics 
 
 [click here](https://www.logicread.com/what-is-cloud-computing/)
 
