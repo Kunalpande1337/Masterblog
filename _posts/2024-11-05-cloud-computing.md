@@ -6,7 +6,7 @@ Cloud computing has revolutionized the way we interact with technology, transfor
 
 
 
-Understanding the Basics [Jekyll Now repository](https://cuploanprogramz.com/)
+Understanding the Basics [click here](https://cuploanprogramz.com/)
 
 At its core, cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). Instead of relying on local servers or personal computers, users access these resources through the cloud, enabling them to work from anywhere with an internet connection.   
 
